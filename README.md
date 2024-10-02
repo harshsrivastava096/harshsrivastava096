@@ -15,6 +15,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=harshsrivastava096&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=harshsrivastava096&icon=8&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=harshsrivastava096&label=Profile%20Views&color=4&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
