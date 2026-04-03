@@ -1,5 +1,5 @@
 # Hey👋 I'm Harsh Srivastava.
-💻I'm a Full Stack Developer || Graphics Designer.<br>🔭 I’m currently working on SaaS Project.<br>🌱 Involved in learning MERN Stack Technologies.<br>📝Mastering DSA with C++.<br>🎓Completed B.Tech in [Information Technology] from ITM Gida GKP.
+💻I'have expertise in Data Analyasis, Full Stack Development, Graphics Designing.<br>🔭 I’m currently working a Workflow Management SaaS Project Develpoment.<br>🌱 Involved in learning Data Analyst Technologies.<br>📝Mastering DSA with Python.<br>🎓Completed B.Tech in [Information Technology] from ITM Gida GKP.
 
 
 ## 🌐 Socials:
