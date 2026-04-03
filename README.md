@@ -1,5 +1,5 @@
 # Hey👋 I'm Harsh Srivastava.
-💻I have expertise in Data Analysis, Full Stack Development, Graphics Designing.<br>🔭 I’m currently working a Workflow Management SaaS Project Develpoment.<br>🌱 Involved in learning Data Analyst Technologies.<br>📝Mastering DSA with Python.<br>🎓Completed B.Tech in [Information Technology] from ITM Gida GKP.
+ 💻I have expertise in Data Analysis, Full Stack Development, Graphics Designing.<br>🔭 I’m currently working a Workflow Management SaaS Project Develpoment.<br>🌱 Involved in learning Data Analyst Technologies.<br>📝Mastering DSA with Python.<br>🎓Completed B.Tech in [Information Technology] from ITM Gida GKP.
 
 
 ## 🌐 Socials:
